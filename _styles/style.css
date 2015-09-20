@@ -97,3 +97,13 @@ footer p {
 	color: #2A2025;
 	padding-bottom: 10px;
 }
+
+footer a {
+	text-decoration: none;
+	color: #2A2025;
+
+}
+
+footer a:hover {
+	color: #ac7;
+}

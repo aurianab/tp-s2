@@ -133,7 +133,7 @@
 
 		<footer>
 
-			<p>Auriana Bastian . B2G22</p>
+			<p>Auriana Bastian . B2G22 . <a href="https://github.com/aurianab/tp-s2" class="git">Github</a></p> 
 
 		</footer>
 
